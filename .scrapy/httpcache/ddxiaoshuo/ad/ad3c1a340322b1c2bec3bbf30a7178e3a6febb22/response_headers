@@ -1,0 +1,16 @@
+X-Swift-Savetime: Mon, 20 Nov 2017 08:38:55 GMT
+X-Swift-Cachetime: 59
+X-Cache: HIT TCP_REFRESH_HIT dirn:9:327707852 mlen:-1
+Content-Encoding: gzip
+Eagleid: 7793970a15111671349516205e
+Age: 1
+Cache-Control: max-age=60
+Vary: Accept-Encoding
+X-Swift-Error: forward connect timeout
+Server: Tengine
+Last-Modified: Tue, 31 Oct 2017 10:20:07 GMT
+Etag: W/"59f84e57-2995"
+Via: cache34.l2et15-2[156,304-0,H], cache19.l2et15-2[156,0], kunlun5.cn116[186,200-0,H], kunlun10.cn116[187,0]
+Date: Mon, 20 Nov 2017 08:38:54 GMT
+Content-Type: text/html
+Timing-Allow-Origin: *

@@ -1,0 +1,14 @@
+Via: cache5.l2et15-2[226,200-0,M], cache29.l2et15-2[227,0], kunlun7.cn116[0,200-0,H], kunlun5.cn116[1,0]
+X-Swift-Cachetime: 599
+X-Cache: HIT TCP_MEM_HIT dirn:-2:-2 mlen:-1
+X-Powered-By: PHP/5.5.9-1ubuntu4.22
+Eagleid: 7793970515111671360504214e
+Age: 282
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Tengine
+X-Swift-Savetime: Mon, 20 Nov 2017 08:34:15 GMT
+Cache-Control: max-age=600
+Date: Mon, 20 Nov 2017 08:34:14 GMT
+Content-Type: text/html; charset=UTF-8
+Timing-Allow-Origin: *

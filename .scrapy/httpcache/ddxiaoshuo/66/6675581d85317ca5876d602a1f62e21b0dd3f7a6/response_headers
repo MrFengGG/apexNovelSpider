@@ -1,0 +1,16 @@
+X-Swift-Savetime: Mon, 20 Nov 2017 08:38:55 GMT
+X-Swift-Cachetime: 60
+X-Cache: HIT TCP_REFRESH_HIT dirn:9:331420707 mlen:-1
+Content-Encoding: gzip
+Eagleid: 7793970715111671353028168e
+Age: 0
+Cache-Control: max-age=60
+Vary: Accept-Encoding
+X-Swift-Error: forward peer connect close
+Server: Tengine
+Last-Modified: Sun, 22 Oct 2017 23:28:48 GMT
+Etag: W/"59ed29b0-285a"
+Via: cache28.l2et15-2[146,304-0,H], cache19.l2et15-2[147,0], kunlun5.cn116[187,200-0,H], kunlun7.cn116[200,0]
+Date: Mon, 20 Nov 2017 08:38:55 GMT
+Content-Type: text/html
+Timing-Allow-Origin: *

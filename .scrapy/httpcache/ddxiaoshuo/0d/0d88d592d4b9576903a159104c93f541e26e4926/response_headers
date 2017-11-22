@@ -1,0 +1,14 @@
+Via: cache39.l2et15-2[0,200-0,H], cache16.l2et15-2[0,0], kunlun10.cn116[28,200-0,M], kunlun10.cn116[29,0]
+X-Swift-Cachetime: 20
+X-Cache: MISS TCP_REFRESH_MISS dirn:10:482615718 mlen:-1
+X-Powered-By: PHP/5.5.9-1ubuntu4.22
+Eagleid: 7793970a15111671360512628e
+Age: 580
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Tengine
+X-Swift-Savetime: Mon, 20 Nov 2017 08:38:56 GMT
+Cache-Control: max-age=600
+Date: Mon, 20 Nov 2017 08:29:16 GMT
+Content-Type: text/html; charset=UTF-8
+Timing-Allow-Origin: *
